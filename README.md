@@ -2,7 +2,7 @@
 
 🔧 **Mechanical Engineering Student @ University of Waterloo**  
 📍 Based in Toronto, ON | Passionate about design, robotics, and manufacturing  
-🚀 Currently contributing to **Tesla Cybertruck** production as a Manufacturing Engineering Intern at ALMAG Aluminum
+🚀 Currently a Manufacturing Engineering Intern at ALMAG Aluminum
 
 ---
 
